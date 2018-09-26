@@ -19,7 +19,6 @@ OC范型！
     NS_ASSUME_NONNULL_END
 
 
- 
     FXObject<NSString *>*fxObj = [[FXObject alloc]init];
     fxObj.obj = @"20岁的男人!--张宇";
     
